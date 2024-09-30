@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oğuzcan Beşerikli</h1>
 <h3 align="center">👨🏻‍💻 Passionate about iOS app development</h3>
 
-- Softy Sleep, a sleep sound app, is now live on [App Store]([https://apps.apple.com/tr/app/learn-english-with-lingogenie/id6449253661)](https://apps.apple.com/tr/app/softy-sleep-calm-sounds/id6683283237?l=tr](https://apps.apple.com/tr/app/softy-sleep-calm-sounds/id6683283237?l=tr)
+- Softy Sleep, a sleep sound app, is now live on [App Store]([[https://apps.apple.com/tr/app/learn-english-with-lingogenie/id6449253661](https://apps.apple.com/tr/app/softy-sleep-calm-sounds/id6683283237?l=tr))]
 - 🌱 I’m currently learning **iOS Programming with Swift**
 - 📫 How to reach me **oguzcan.beserikli@hotmail.com**
 
