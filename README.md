@@ -2,6 +2,8 @@
 <h3 align="center">👨🏻‍💻 Passionate about iOS app development</h3>
 
 - Softy Sleep, a sleep sound app, is now live on [App Store](https://apps.apple.com/tr/app/softy-sleep-calm-sounds/id6683283237?l=tr)
+- Focus Cycle, a pomodoro app, is now live on [App Store](https://apps.apple.com/us/app/focus-cycle-productivity/id6723672321)
+- Musicwave, an AI based song recommendation app, is now live on [App Store](https://apps.apple.com/us/app/musicwave-ai-song-discovery/id6731746123)
 - 🌱 I’m currently learning **iOS Programming with Swift**
 - 📫 How to reach me **oguzcan.beserikli@hotmail.com**
 
