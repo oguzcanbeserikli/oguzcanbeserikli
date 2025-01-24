@@ -4,6 +4,7 @@
 - Softy Sleep, a sleep sound app, is now live on [App Store](https://apps.apple.com/tr/app/softy-sleep-calm-sounds/id6683283237?l=tr)
 - Focus Cycle, a pomodoro app, is now live on [App Store](https://apps.apple.com/us/app/focus-cycle-productivity/id6723672321)
 - SoundFinder, an AI based song recommendation app, is now live on [App Store](https://apps.apple.com/us/app/musicwave-ai-song-discovery/id6731746123)
+- CALculator AI, an AI based calorie tracker and analyzer app, is now live on [App Store](https://apps.apple.com/us/app/calculator-ai-nutrition-guide/id6739962012)
 - 🌱 I’m currently learning **iOS Programming with Swift**
 - 📫 How to reach me **oguzcan.beserikli@hotmail.com**
 
